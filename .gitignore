@@ -1,0 +1,8 @@
+# Build artifacts
+sender
+receiver
+*.o
+
+# Editor files
+*~
+*.swp
